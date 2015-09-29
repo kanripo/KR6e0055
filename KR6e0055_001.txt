@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:57:02.855196
+#+DATE: 2015-09-28 22:57:04.167396
 #+TITLE: 大方廣佛花嚴經修慈分
 #+PROPERTY: CBETA_ID T10n0306
 #+PROPERTY: ID KR6e0055
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 306
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6e0055_T_000-0959a>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6e0055_T_001-0959a> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.306¶
-
- 《大方廣佛花嚴經》修慈分一卷¶
+No. 306¶
+《大方廣佛花嚴經》修慈分一卷¶
 ¶
 唐于闐三藏提雲般若等奉　制譯¶
 
