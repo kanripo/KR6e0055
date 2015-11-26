@@ -1,14 +1,16 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:57:02.997718
-#+TITLE: 大方廣佛花嚴經修慈分
-#+PROPERTY: CBETA_ID T10n0306
-#+PROPERTY: ID KR6e0055
-#+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 306
-#+PROPERTY: VOL 10
-#+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS TKD
-#+PROPERTY: LASTPB <pb:KR6e0055_T_000-0959a>¶¶¶¶¶¶¶¶
+#+TITLE: 大方廣佛花嚴經修慈分 / TKD
+#+DATE: 2015-11-26 14:13:38.018745
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         T|【大】     |
+ |    T@GONG|【大→宮】   |
+ |      T@LI|【大→麗】   |
+ |    T@MING|【大→明】   |
+ |   T@QISHA|【大→磧砂】  |
+ |    T@SONG|【大→宋】   |
+ |    T@YUAN|【大→元】   |
+ |       TKD|【高麗藏・東國影印版】|
 
-
-卷
-[[mandoku:KR6e0055_001.txt][大方廣佛花嚴經修慈分 1]]
+* 目次
+* 卷
+** [[file:KR6e0055_001.txt][大方廣佛花嚴經修慈分 1]]
